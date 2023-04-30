@@ -64,5 +64,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Auth-ApiLaravel
 
-## key searching
-Tutorial Laravel JWT
+Laravel key [documentation](https://santrikoding.com/apa-itu-jwt)
